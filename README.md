@@ -1,1 +1,2 @@
 # final-project-UX-UI
+# This project features a prototype for a News page, showcasing an engaging layout and user-friendly navigation. Additionally, it includes a comprehensive UI/UX design for the KW Bank project, focusing on enhancing user experience through intuitive interfaces and accessible design elements.
